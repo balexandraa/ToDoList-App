@@ -1,3 +1,3 @@
-#To-Do List App
+# To-Do List App
 
-A simple To-Do List app built with React and Vite. 
+A simple To-Do List app built with **React** and **Vite**. 
